@@ -24,6 +24,7 @@ I also have knowledge of **PHP**, **CSS**, and **Python**.
 <a href="https://www.instagram.com/pasamaar.11/">
   <img src="https://cdn-icons-png.flaticon.com/256/174/174855.png" alt="Instagram Logo" width="50" height="50">
 </a>
-<a href="mailto:tuemail@gmail.com">
+<a href="mailto:jpasamaracon@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/256/732/732200.png" alt="Gmail Logo" width="50" height="50">
 </a>
+
