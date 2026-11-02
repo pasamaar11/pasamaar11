@@ -1,6 +1,6 @@
 # Hi 👋, I'm Javier Pasamar
 
-I'm a **Web Software Developer student** at **CPIFP Los Enlaces**, Zaragoza, Spain.  
+I'm a **Web Software Developer student** in Zaragoza, Spain.
 
 ---
 
